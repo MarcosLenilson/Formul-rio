@@ -1,2 +1,2 @@
-# Formul-rio
-Formulário que fiz estudando 
+# Formulários
+Formulário que fiz estudando HTML, CSS e JAVASCRIPT
